@@ -39,3 +39,4 @@ jobs:
             heroku_api_key: ${{secrets.HEROKU_API_KEY}}
             heroku_app_name: "amnat-github-action-02"
             heroku_email: "61160025@go.buu.ac.th"
+            
